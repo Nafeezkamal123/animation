@@ -31,8 +31,8 @@ Step 7: Save and run the application
 ```
 /*
 Program to display animation operation”.
-Developed by : B.mothish kumar
-Registeration Number : 212221040027
+Developed by : nafeez kamal s
+Registeration Number : 212221220059
 */
 ```
 ACTIVITY_MAIN.XML:
